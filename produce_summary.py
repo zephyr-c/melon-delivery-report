@@ -10,6 +10,7 @@ def delivery_report(filename):
 
         print(f"Delivered {count} {melon}s for total of ${amount}")
     the_file.close()
+    print("\n")
 
 
 
